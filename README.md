@@ -35,3 +35,5 @@ This is the React-based frontend for the IT Asset Management System, built with 
 ## 🔑 Test Credentials
 - **Admin**: `admin@kenora.lk` / `password123`
 - *Note: These fields are pre-filled on the login page for convenience.*
+
+## Depoly Link - https://it-asset-mgr.netlify.app/
